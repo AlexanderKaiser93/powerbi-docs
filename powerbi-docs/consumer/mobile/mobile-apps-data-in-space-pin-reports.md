@@ -19,6 +19,8 @@ Applies to:
 |:--- |:--- |
 |iPhones |iPads |
 
+Supports only devices with "ARKit" functionality. (See full list: https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/DeviceCompatibilityMatrix/DeviceCompatibilityMatrix.html#//apple_ref/doc/uid/TP40013599-CH17-SW4)
+
 With the Power BI app’s Data in space feature, you can pin reports in augmented reality to real-world locations where those who need them can find and access them - in context, on location.
 
 When you pin a report to a location, a spatial anchor is created. The spatial anchor is a representation of the point you selected and its orientation in a space. Thus, when you pin a report, you need to use your mobile app's camera to scan the space to capture as much information about it as possible, so that the anchor will have enough data.
